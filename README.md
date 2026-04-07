@@ -8,8 +8,6 @@ An interactive chatbot powered by **NLTK’s regex-based engine** and deployed w
 
 ## 🚀 Demo Preview
 
-> *(Add screenshots/GIF here — chat UI + responses = instant impact)*
-
 ```
 User: hi
 Bot: Hey there!
