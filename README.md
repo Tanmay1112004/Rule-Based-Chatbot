@@ -1,7 +1,3 @@
-This is already clean — but let’s push it into **top-tier recruiter-level README** that shows *engineering thinking + product mindset*.
-
----
-
 # 🤖 NLTK Rule-Based Chatbot (Streamlit UI)
 
 > **A lightweight NLP chatbot built with rule-based intelligence — fast, interpretable, and production-ready UI.**
