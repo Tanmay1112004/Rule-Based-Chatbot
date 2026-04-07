@@ -253,12 +253,3 @@ MIT License
 💼 Data Science | ML | Full Stack
 
 ---
-
-🔥 Want next upgrade?
-I can convert this into:
-
-* 🚀 **LLM + RAG version of this chatbot (killer project)**
-* 💼 **Resume bullet points (FAANG-level wording)**
-* 🎯 **Interview answers for this project**
-
-Just say: **“make it next level”** 😄
