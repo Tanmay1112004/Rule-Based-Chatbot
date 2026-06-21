@@ -129,7 +129,7 @@ nltk-chatbot/
 ### 🔹 Run Locally
 
 ```bash
-git clone https://github.com/your-username/nltk-streamlit-chatbot.git
+git clone https://github.com//nltk-streamlit-chatbot.git
 cd nltk-streamlit-chatbot
 
 python -m venv .venv
